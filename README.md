@@ -2,6 +2,9 @@
 
 "C:\Users\HP\Desktop\POWER BI DOC\POWER BI INGRADE PROJECT LIBRARY\project library 2-HR_Analytic dashboard\hranalytic_PDF.pdf"
 
+HR Analytics Dashboard
+The HR Analytics Dashboard is a comprehensive tool designed to visualize and analyze key HR metrics. It empowers HR teams and organizational leaders with actionable insights into workforce trends, employee performance, attrition, recruitment efforts, and engagement levels.
+
 Key Features:
 Data Visualization: The dashboard uses charts, graphs, and other visuals to present HR data in an easy-to-understand format. 
 Interactive Elements: Users can filter, drill down, and explore data to gain deeper insights. 
